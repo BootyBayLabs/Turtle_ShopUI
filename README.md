@@ -11,9 +11,6 @@ This repository stores original, legacy UI scripts and interfaces extracted from
 - **Turtle_ShopUI**: Original official donation shop UI from **2022**
 
 ## Features
-- Original, unmodified legacy code from 2022
-- Compatible with **World of Warcraft client
-- Turtle WoW official UI design and logic
 - Fully preserved for archive & development use
 
 ## Usage
