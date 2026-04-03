@@ -2,7 +2,7 @@
 A collection of authentic, archived WoW UI addons from Turtle WoW  client.
 
 ## Overview
-This repository stores original, legacy UI scripts and interfaces extracted from the **Turtle WoW 2.4.3 (TBC) client**, primarily from the **2022 era**. These files are preserved for research, restoration, and development reference.
+This repository stores original, legacy UI scripts and interfaces extracted from the **Turtle WoW client**, primarily from the **2022 era**. These files are preserved for research, restoration, and development reference.
 
 ## Included Addons
 - **StaticPopup2**: Core UI popup framework for Turtle WoW
