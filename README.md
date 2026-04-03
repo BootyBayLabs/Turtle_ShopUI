@@ -12,7 +12,7 @@ This repository stores original, legacy UI scripts and interfaces extracted from
 
 ## Usage
 These files are for reference, restoration, and learning purposes only.
-They can be loaded directly into a 2.4.3 WoW client as interface addons.
+They can be loaded directly into a1.121 WoW client as interface addons.
 
 ## License
 This project is for archival and educational use only.
