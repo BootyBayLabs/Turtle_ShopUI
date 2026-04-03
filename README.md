@@ -12,7 +12,7 @@ This repository stores original, legacy UI scripts and interfaces extracted from
 
 ## Features
 - Original, unmodified legacy code from 2022
-- Compatible with **World of Warcraft 2.4.3 (TBC)** client
+- Compatible with **World of Warcraft client
 - Turtle WoW official UI design and logic
 - Fully preserved for archive & development use
 
