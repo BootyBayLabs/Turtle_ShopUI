@@ -5,7 +5,7 @@ A collection of authentic, archived WoW UI addons from Turtle WoW  client.
 This repository stores original, legacy UI scripts and interfaces extracted from the **Turtle WoW client**, primarily from the **2022 era2026**. These files are preserved for research, restoration, and development reference.
 
 ## Included Addons
-- **Turtle_ShopUI**: Original official donation shop UI from **2022**
+- **Turtle_ShopUI**: Original official donation shop UI from **2022**2026**
 
 ## Features
 - Fully preserved for archive & development use
