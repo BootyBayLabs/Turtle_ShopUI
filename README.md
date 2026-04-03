@@ -1,5 +1,5 @@
 # BootyBayLabs
-A collection of authentic, archived WoW UI addons from Turtle WoW 2.4.3 client.
+A collection of authentic, archived WoW UI addons from Turtle WoW  client.
 
 ## Overview
 This repository stores original, legacy UI scripts and interfaces extracted from the **Turtle WoW 2.4.3 (TBC) client**, primarily from the **2022 era**. These files are preserved for research, restoration, and development reference.
