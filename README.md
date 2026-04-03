@@ -8,19 +8,19 @@ Included Addons
 
 - Turtle_ShopUI: Original official donation shop UI (2022 - 2026)
 
-- Turtle_ShopUI 2022-07-25 | Client Version 1.161
+- patch-3.mpq | Client Version 1.161
 
-- Turtle_ShopUI 2023-01-23 | Client Version 1.164
+- patch-4.mpq | Client Version 1.164
 
-- Turtle_ShopUI 2024-01-05 | Client Version 1.170
+- patch-5.mpq | Client Version 1.170
 
-- Turtle_ShopUI 2024-10-22 | Client Version 1.171
+- patch-6.mpq | Client Version 1.171
 
-- Turtle_ShopUI 2025-04-11 | Client Version 1.172
+- patch-7.mpq | Client Version 1.172
 
-- Turtle_ShopUI 2025-08-15 | Client Version 1.180
+- patch-8.mpq | Client Version 1.180
 
-- Turtle_ShopUI 2026-03-20 | Client Version 1.181
+- patch-9.mpq | Client Version 1.181
 
 
 ## Features
